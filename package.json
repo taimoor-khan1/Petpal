@@ -42,7 +42,7 @@
     "lottie-ios": "3.2.3",
     "lottie-react-native": "^5.0.1",
     "mobx-react": "^7.2.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "native-base": "^2.15.2",
     "react": "17.0.2",
     "react-native": "0.68.2",
