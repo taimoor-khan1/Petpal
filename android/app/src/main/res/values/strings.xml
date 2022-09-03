@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PetPal</string>
+
+    <string name="facebook_app_id">623140812076030</string>
+    <string name="fb_login_protocol_scheme">fb623140812076030</string>
+
+    <string name="facebook_client_token">b19669c137ab0e8caa9d9a80716cce53</string>
+
+
+</resources>
